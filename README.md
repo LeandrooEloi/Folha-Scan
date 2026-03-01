@@ -105,9 +105,23 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 ---
 ## Prints
 
+<p align="center">
+  <img src="assets/home.png" width="260" alt="Tela inicial" />
+  <img src="assets/especie.png" width="260" alt="Resultado: Syzygium malaccense" />
+  <img src="assets/nao_especie.png" width="260" alt="Resultado: Outra espécie" />
+</p>
+
+<p align="center">
+  <sub>
+    Da esquerda para a direita: Tela inicial • Resultado (Syzygium malaccense) • Resultado (Outra espécie)
+  </sub>
+</p>
+
 ### Tela inicial
-![Tela inicial]<img src="assets/home.png" width="320" />
+<img src="assets/home.png" width="320" alt="Tela inicial" />
+
 ### Resultado: Syzygium malaccense
-![Resultado Syzygium]<img src="assets/especie.png" width="320" />
+<img src="assets/especie.png" width="320" alt="Resultado: Syzygium malaccense" />
+
 ### Resultado: Outra espécie
-![Resultado Outra espécie]<img src="assets/nao_especie.png" width="320" />
+<img src="assets/nao_especie.png" width="320" alt="Resultado: Outra espécie" />
