@@ -10,7 +10,6 @@ Sistema de **segmentação, classificação e medição morfométrica** de folha
 - [Como funciona](#como-funciona)
 - [Pipeline do processamento](#pipeline-do-processamento)
 - [Tecnologias](#tecnologias)
-- [Estrutura do projeto](#estrutura-do-projeto)
 - [Resultados](#resultados)
 - [Prints](#prints)
 - [Limitações e melhorias futuras](#limitações-e-melhorias-futuras)
@@ -99,7 +98,3 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 
 ---
 
-## Estrutura do projeto
-> Ajuste os nomes abaixo para refletir exatamente seus arquivos/pastas, se necessário.
-
-Sugestão de organização:
