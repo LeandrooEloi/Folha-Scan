@@ -107,4 +107,7 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 
 ### Tela inicial
 ![Tela inicial](assets/home.png)
-
+### Resultado: Syzygium malaccense
+![Resultado Syzygium](assets/especie.png)
+### Resultado: Outra espécie
+![Resultado Outra espécie](assets/nao_especie.png)
