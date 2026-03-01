@@ -12,8 +12,7 @@ Sistema de **segmentação, classificação e medição morfométrica** de folha
 - [Tecnologias](#tecnologias)
 - [Resultados](#resultados)
 - [Prints](#prints)
-- [Limitações e melhorias futuras](#limitações-e-melhorias-futuras)
-- [Autores](#autores)
+
 
 ---
 
