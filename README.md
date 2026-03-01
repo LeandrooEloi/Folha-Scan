@@ -105,4 +105,6 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 ---
 ## Prints
 
+### Tela inicial
+![Tela inicial](assets/home.png)
 
