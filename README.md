@@ -105,23 +105,21 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 ---
 ## Prints
 
-<p align="center">
-  <img src="assets/home.png" width="260" alt="Tela inicial" />
-  <img src="assets/especie.png" width="260" alt="Resultado: Syzygium malaccense" />
-  <img src="assets/nao_especie.png" width="260" alt="Resultado: Outra espécie" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Tela inicial</b><br>
+      <img src="assets/home.png" width="240" alt="Tela inicial">
+    </td>
+    <td align="center" width="33%">
+      <b>Syzygium malaccense</b><br>
+      <img src="assets/especie.png" width="240" alt="Resultado: Syzygium malaccense">
+    </td>
+    <td align="center" width="33%">
+      <b>Outra espécie</b><br>
+      <img src="assets/nao_especie.png" width="240" alt="Resultado: Outra espécie">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>
-    Da esquerda para a direita: Tela inicial • Resultado (Syzygium malaccense) • Resultado (Outra espécie)
-  </sub>
-</p>
-
-### Tela inicial
-<img src="assets/home.png" width="320" alt="Tela inicial" />
-
-### Resultado: Syzygium malaccense
-<img src="assets/especie.png" width="320" alt="Resultado: Syzygium malaccense" />
-
-### Resultado: Outra espécie
-<img src="assets/nao_especie.png" width="320" alt="Resultado: Outra espécie" />
+<sub>Da esquerda para a direita: Tela inicial • Resultado (Syzygium malaccense) • Resultado (Outra espécie)</sub>
