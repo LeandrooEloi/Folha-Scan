@@ -11,8 +11,6 @@ Sistema de **segmentação, classificação e medição morfométrica** de folha
 - [Pipeline do processamento](#pipeline-do-processamento)
 - [Tecnologias](#tecnologias)
 - [Estrutura do projeto](#estrutura-do-projeto)
-- [Como rodar localmente](#como-rodar-localmente)
-- [Como usar](#como-usar)
 - [Resultados](#resultados)
 - [Prints](#prints)
 - [Limitações e melhorias futuras](#limitações-e-melhorias-futuras)
