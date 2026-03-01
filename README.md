@@ -97,4 +97,8 @@ A interface exibe as medidas em centímetros (quando aplicável/calibrado).
 - **scikit-learn** (treinamento/inferência do modelo)
 
 ---
+## Resultados
+- **Segmentação e classificação funcionando em testes do projeto.
+- **O sistema diferencia bem “folha alvo” vs “não folha / outra espécie”.
+- **Medição visual validada com sobreposição de linhas (altura/largura).
 
